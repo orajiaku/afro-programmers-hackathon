@@ -62,5 +62,6 @@ server.listen(globals.vars.port, function (err) {
 		console.log(err);
 	}else{
 		console.log('Listening on port 7012');
+    require(globals.vars.query).init();
 	};
 })
