@@ -27,6 +27,8 @@
 
     socket.on('drawing', onDrawingEvent);
 
+    socket.on('comment', onComment)
+
     window.addEventListener('resize', onResize, false);
     onResize();
 
@@ -51,11 +53,13 @@
             y1: y1 / h,
             color: color
         });
-
-        socket.emit('comment', {
-            comment: ""
-        });
     }
+
+    $('.button').click(function(){
+        socket.emit('comment', {
+            comment: $(".commentInput").val()
+        });
+    });
 
     function onMouseDown(e){
         drawing = true;
@@ -78,6 +82,21 @@
 
     function onColorUpdate(e){
         current.color = e.target.className.split(' ')[1];
+    }
+
+    function onComment(data){
+        $(".media-list").append(
+            '<li class="media">\
+                <div class="media-left">\
+                    <a href="#">\
+                        <img class="media-object" src="https://tse2.mm.bing.net/th?id=OIP.Cybqo9gwLjeOX9WO8CZgbQDLEy&w=199&h=300&c=8&qlt=90&o=4&pid=1.7" alt="...">\
+                    </a>\
+                </div>\
+                <div class="media-body">\
+                    <h4 class="media-heading">'+data.comment+'</h4>\
+                </div>\
+            </li>'
+        );
     }
 
     // limit the number of events per second
@@ -104,7 +123,5 @@
         canvas.width = window.innerWidth;
         canvas.height = window.innerHeight;
     }
-    
-
 
 })();

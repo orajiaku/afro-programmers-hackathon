@@ -8,7 +8,7 @@ var MSGTYPES = {DRAW:"DRAW",
 		GETHISTORY:"GETHIST"
 	}
 
-var getDrawingHistoryForNewClients = function (socket_id, room,) {
+var getDrawingHistoryForNewClients = function (socket_id, room) {
 	 /* body... */ 
 	  io.sockets.socket(storeHandler.storage[room_name].admin).emit("ToBeAgreedUpon", {type:DRAWREQUEST, msg: "Think"});
 	  //io.
@@ -85,3 +85,29 @@ var promoteSomeoneInRoom = function (room_name) {
 var getFrontPage = function (req, res) {
 	// body... 
 }
+
+module.exports = {
+	init: function(){
+		console.log('Initializing Socket IO');
+
+		io.on('connection', function(socket){
+			console.log('Endpoint connected');
+
+			socket.join('default room', function(){
+				console.log('Joined default room');
+
+				socket.on('comment', function(data){
+					socket.to('default room').emit('comment', data);
+					socket.emit('comment', data);
+				});
+				
+				socket.on('drawing', function(data){
+					socket.to('default room').emit('drawing', data);
+					socket.emit('drawing', data);
+				});
+			})
+		});
+	},
+	createRoom: createRoom,
+	joinRoom: joinRoom
+};
