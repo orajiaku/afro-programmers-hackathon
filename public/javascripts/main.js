@@ -53,13 +53,13 @@
             y1: y1 / h,
             color: color
         });
-
-        $('.button').click(function(){
-            socket.emit('comment', {
-                comment: $(".commentInput").val()
-            });
-        });
     }
+
+    $('.button').click(function(){
+        socket.emit('comment', {
+            comment: $(".commentInput").val()
+        });
+    });
 
     function onMouseDown(e){
         drawing = true;
@@ -123,10 +123,5 @@
         canvas.width = window.innerWidth;
         canvas.height = window.innerHeight;
     }
-    
-    function () {
-        
-    }
-
 
 })();
