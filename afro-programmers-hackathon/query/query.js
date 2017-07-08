@@ -69,11 +69,18 @@ module.exports = {
 
 		io.on('connection', function(socket){
 			console.log('Endpoint connected');
+
 			socket.join('default room', function(){
 				console.log('Joined default room');
+
 				socket.on('comment', function(data){
 					socket.to('default room').emit('comment', data);
 					socket.emit('comment', data);
+				});
+				
+				socket.on('drawing', function(data){
+					socket.to('default room').emit('drawing', data);
+					socket.emit('drawing', data);
 				});
 			})
 		});
