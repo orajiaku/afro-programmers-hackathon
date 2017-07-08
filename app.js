@@ -9,6 +9,9 @@ var index = require('./routes/index');
 var users = require('./routes/users');
 
 var app = express();
+var server = require('http').Server(app) 
+var io = require('socket.io')(server)
+var globals = require('./globals')  
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -18,7 +21,7 @@ app.set('view engine', 'jade');
 //app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 app.use(logger('dev'));
 app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
@@ -43,4 +46,12 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
-module.exports = app;
+module.exports.app = app;
+module.exports.io = io; 
+server.listen(globals.vars.port, function (err) {
+	if (err) {
+		console.log(err);
+	}else{
+		console.log('Listening on port 7012');
+	};
+})

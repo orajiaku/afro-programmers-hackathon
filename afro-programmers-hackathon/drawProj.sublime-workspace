@@ -1,0 +1,774 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"succe",
+				"succesCallBack"
+			],
+			[
+				"nav",
+				"navigator.getUserMedia"
+			],
+			[
+				"fun",
+				"function with name"
+			],
+			[
+				"ha",
+				"hashkeys"
+			],
+			[
+				"adm",
+				"admin_id"
+			],
+			[
+				"option",
+				"optionType"
+			],
+			[
+				"contro",
+				"controller"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"que",
+				"queue"
+			],
+			[
+				"member",
+				"member_id"
+			],
+			[
+				"ans",
+				"answertype"
+			],
+			[
+				"optionT",
+				"optionType:\"radio"
+			],
+			[
+				"mate",
+				"materialize"
+			],
+			[
+				"input",
+				"input-field"
+			],
+			[
+				"Sig",
+				"signup"
+			],
+			[
+				"de",
+				"device"
+			],
+			[
+				"dev",
+				"devices"
+			],
+			[
+				"deviceDeta",
+				"deviceDetails"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"selec",
+				"selected_node"
+			],
+			[
+				"bas",
+				"base\tTag"
+			],
+			[
+				"room_",
+				"room_mates"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"t",
+				"thead\tTag"
+			],
+			[
+				"getInfo",
+				"getInfoHelper"
+			],
+			[
+				"modal",
+				"modalbox"
+			],
+			[
+				"soc",
+				"socket"
+			],
+			[
+				"get",
+				"getInfo"
+			],
+			[
+				"q",
+				"questions"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ques",
+				"questionlist"
+			],
+			[
+				"mater",
+				"materialize.min.js"
+			],
+			[
+				"sock",
+				"sockFactory"
+			],
+			[
+				"constants",
+				"constants"
+			],
+			[
+				"socket",
+				"socketMessage"
+			],
+			[
+				"conso",
+				"console.log()"
+			],
+			[
+				"leng",
+				"length"
+			],
+			[
+				"els",
+				"else if()"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"secr",
+				"socketsecret"
+			],
+			[
+				"cook",
+				"cookieparser"
+			],
+			[
+				"socke",
+				"socketsecret"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"serv",
+				"service"
+			],
+			[
+				"login",
+				"loginInfo"
+			],
+			[
+				"tok",
+				"token1"
+			],
+			[
+				"jw",
+				"jwtSecret2"
+			],
+			[
+				"room",
+				"room_name"
+			],
+			[
+				"contr",
+				"controller"
+			],
+			[
+				"getQ",
+				"getQuest"
+			],
+			[
+				"sel",
+				"selectedQuestion"
+			],
+			[
+				"list",
+				"listOfQuestions"
+			],
+			[
+				"exam",
+				"examQuestions"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"marke",
+				"markModified"
+			],
+			[
+				"opt",
+				"optmodel"
+			],
+			[
+				"isauthe",
+				"isauthenticuser"
+			],
+			[
+				"exa",
+				"examQuestions"
+			],
+			[
+				"instru",
+				"instructormodel"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"session",
+				"sessionInfo"
+			],
+			[
+				"logi",
+				"login"
+			],
+			[
+				"fir",
+				"firstname"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"reg",
+				"registeredPerson"
+			],
+			[
+				"function",
+				"function without name"
+			],
+			[
+				"controll",
+				"controllerAs"
+			],
+			[
+				"el",
+				"else if()"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"rand",
+				"randomBool"
+			],
+			[
+				"id",
+				"idinterval"
+			],
+			[
+				"clearI",
+				"clearInterval(timer);"
+			],
+			[
+				"console",
+				"console.log()"
+			],
+			[
+				"style",
+				"style\tStyle CSS"
+			],
+			[
+				"hel",
+				"Helvetica"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"chro",
+				"chrome64"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "htmlprettify",
+		"selected_items":
+		[
+			[
+				"htmlprettify",
+				"HTMLPrettify"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax p",
+				"Set Syntax: Python"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pyth",
+				"Set Syntax: Regular Expressions (Python)"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/JCChuks/Documents/projectX/drawProj/afro-programmers-hackathon-2017"
+	],
+	"file_history":
+	[
+		"/C/Users/JCChuks/Documents/projectX/drawProj/afro-programmers-hackathon-2017/afro-programmers-hackathon/app.js",
+		"/C/Users/JCChuks/Desktop/weLoveBeer/webrtc-web-master/webrtc-web-master/step-06/js/main.js",
+		"/C/Users/JCChuks/Desktop/weLoveBeer/webrtc-web-master/webrtc-web-master/work/index.html",
+		"/C/Users/JCChuks/Desktop/weLoveBeer/webrtc-web-master/webrtc-web-master/work/css/main.css",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/js/qBankMod.js",
+		"/C/Users/JCChuks/Desktop/weLoveBeer/webrtc-web-master/webrtc-web-master/work/js/main.js",
+		"/C/Users/JCChuks/Desktop/weLoveBeer/webrtc-web-master/webrtc-web-master/step-03/js/main.js",
+		"/C/Users/JCChuks/Desktop/weLoveBeer/webrtc-web-master/webrtc-web-master/step-06/index.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/controller/router.js",
+		"/C/Users/JCChuks/Desktop/weLoveBeer/webrtc-web-master/webrtc-web-master/step-02/js/main.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/views/index.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/partials/questiontemplate.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/partials/questionresponsetemplate.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/controller/questionserversocket.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/controller/app.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/partials/modalquestiontemplate.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/partials/seteditablequestiontemplate.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/partials/setquestiontemplate.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/js/validate.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/partials/optiontemplate.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/views/login.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/partials/seteditablequestionoption.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/partials/seteditableoptiontemplate.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/partials/room_stats.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/views/signUpLogIn.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/views/mainlanding.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/globals.js",
+		"/C/Users/JCChuks/Downloads/angular-animate.min.js.map",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/js/angular.min.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/controller/queryworker.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/views/dashboard.html",
+		"/C/Users/JCChuks/Documents/projectX/bigFoot/public/js/bigfoot.js",
+		"/C/Users/JCChuks/Documents/projectX/bigFoot/public/html/dashboard.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/configurations/config.js",
+		"/C/Users/JCChuks/Documents/projectX/bigFoot/globals.js",
+		"/C/Users/JCChuks/Documents/projectX/bigFoot/controller/bigfoot.js",
+		"/C/Users/JCChuks/Documents/projectX/bigFoot/controller/bigfootapp.js",
+		"/C/Users/JCChuks/Documents/projectX/bigFoot/public/js/App.js",
+		"/C/Users/JCChuks/Documents/projectX/bigFoot/controller/routerjs.js",
+		"/C/Users/JCChuks/Downloads/bigfoot.js",
+		"/C/Users/JCChuks/Documents/projectX/bigFoot/public/js/index.js",
+		"/C/Users/JCChuks/Documents/projectX/bigFoot/public/js/middlePanel.js",
+		"/C/Users/JCChuks/Documents/projectX/chefsCooks/controller/router.js",
+		"/C/Users/JCChuks/Documents/projectX/bigFoot/public/js/bigfootjs",
+		"/C/Users/JCChuks/Desktop/weLoveBeer/public_html/index.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/node_modules/mongoose/node_modules/mquery/node_modules/bluebird/js/browser/bluebird.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/materialize/materialize/css/materialize.min.css",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/materialize/materialize/css/materialize.css",
+		"/C/Users/JCChuks/Desktop/txt.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/js/lg.js",
+		"/C/Users/JCChuks/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/views/indexlanding.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/node_modules/socket.io/node_modules/socket.io-adapter/node_modules/socket.io-parser/node_modules/benchmark/benchmark.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/materialize/materialize/js/materialize.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/css/simple-sidebar.css",
+		"/C/Users/JCChuks/Documents/projectX/chefsCooks/controller/app.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/css/examsheet.css",
+		"/C/Users/JCChuks/Documents/projectX/chefsCooks/globals.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/node_modules/client-sessions/node_modules/cookies/node_modules/keygrip/index.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/node_modules/socket.io/node_modules/socket.io-client/socket.io.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/data/databaseConnection/dbConnect.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/views/indexold.html",
+		"/C/Users/JCChuks/Documents/projectX/classQue/node_modules/mongoose/lib/schema.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/node_modules/jsonwebtoken/index.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/data/models/model.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/node_modules/client-sessions/lib/client-sessions.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/js/sockethandler.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/data/schemas/schema.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/css/style.css",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/css/normalize.css",
+		"/C/Users/JCChuks/Downloads/sign-up-login-form/index.html",
+		"/C/Users/JCChuks/Downloads/sign-up-login-form/js/index.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/js/bootstrap.min.js",
+		"/C/Users/JCChuks/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/JCChuks/Downloads/bootstrap-3.3.6-dist/bootstrap-3.3.6-dist/css/bootstrap.min.css.map",
+		"/C/Users/JCChuks/Documents/projectX/classQue/data/models/users.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/data/schemas",
+		"/C/Users/JCChuks/Documents/projectX/classQue/node_modules/nodemon/bin/nodemon.js",
+		"/C/Users/JCChuks/Documents/projectX/classQue/public/index.html",
+		"/C/Users/JCChuks/Downloads/startbootstrap-simple-sidebar-1.0.5/startbootstrap-simple-sidebar-1.0.5/index.html",
+		"/C/Users/JCChuks/Documents/chefsCooks/public/views/index.html",
+		"/C/Users/JCChuks/Documents/chefsCooks/controller/app.js",
+		"/C/Users/JCChuks/Documents/shopifyAppContest/app.js",
+		"/C/Users/JCChuks/Documents/shopifyAppContest/private/js_api/jqueryloader.js",
+		"/C/Users/JCChuks/Documents/nodejs/sleekmart.js",
+		"/C/Users/JCChuks/Documents/nodejs/yit.js",
+		"/C/Users/JCChuks/Documents/Sublime Text Edits/vspace.html",
+		"/C/Users/JCChuks/Documents/Sublime Text Edits/anything.html",
+		"/C/Users/JCChuks/Documents/nodejs/tweetandmap.js",
+		"/C/Users/JCChuks/Desktop/android-debug/assets/www/scripts/weather.js",
+		"/C/Users/JCChuks/Documents/Sublime Text Edits/vcss.css",
+		"/C/Users/JCChuks/Documents/nodejs/index.html",
+		"/C/Users/JCChuks/Documents/nodejs/trendtweet.js",
+		"/C/Users/JCChuks/Documents/nodejs/trendtest.js",
+		"/C/Users/JCChuks/Documents/nodejs/nnaemeka.js",
+		"/C/Users/JCChuks/Documents/nodejs/trendtest_v1.js",
+		"/C/Users/JCChuks/Documents/nodejs/writestream.js",
+		"/C/Users/JCChuks/Desktop/android-debug/assets/www/scripts/platformOverrides.js",
+		"/C/Users/JCChuks/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/JCChuks/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/JCChuks/AppData/Roaming/Sublime Text 3/Packages/User/Choose Browser.sublime-build",
+		"/C/Users/JCChuks/AppData/Roaming/Sublime Text 3/Packages/User/CSS3.sublime-settings",
+		"/C/Program Files/Sublime Text 3/LocationFinder.html",
+		"/C/Python27/PasswordSystem.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"onSetLocalSuccess",
+			"onCreateAnswerSuccess",
+			"localstrea",
+			"addstream",
+			"gotstrea",
+			"swapRoom",
+			"createroom",
+			"leaveRoom",
+			"joinRoom",
+			"swapRoom",
+			"leaveRoom",
+			"leave",
+			"admin_id",
+			"sentQues",
+			"sentQuestion",
+			"sentQues",
+			"sentQuestion",
+			"solutionGrader",
+			"getAnswer",
+			"socket.rm",
+			"socketId",
+			"admin",
+			"member_names",
+			"getinfo",
+			"questionRetriveAndBind",
+			"serveQuestions",
+			"kizroll",
+			"console.log",
+			"close",
+			"materilize",
+			"fonts",
+			"login",
+			"focusout",
+			"result",
+			"idxErr",
+			"success",
+			"loginCtrlHandle",
+			"materialize",
+			"email",
+			"class",
+			"email",
+			"indexlanding",
+			"IncludeIndexLandingCtrl",
+			"home_graph",
+			"get_router",
+			"connected_devices",
+			"network",
+			"node",
+			"nodes: { ",
+			"options",
+			"getAllDeviceDetails",
+			"square",
+			"color",
+			"bodyParser",
+			"globals",
+			"795548",
+			"joinRoom",
+			"stats",
+			"ng-include",
+			"leaveRoom",
+			"availableRooms",
+			"getInfo",
+			"uinfo",
+			"username",
+			"joinroom",
+			"pushback",
+			"push",
+			"append",
+			"open questions",
+			"open question",
+			"open questions",
+			"kiz",
+			"kwiz",
+			"resetValues",
+			"addQuestionSet",
+			".btn",
+			"extra comments",
+			"quest",
+			"join",
+			"submit",
+			"submi",
+			"watch",
+			"watc",
+			"indexLandingCtrl",
+			"submit",
+			"signUpL",
+			"mainlandi",
+			"mainlanding",
+			"logoutuser",
+			"mainlanding",
+			"/index",
+			"logout",
+			"section",
+			"create room",
+			"sethead",
+			"sockFactory",
+			"emit",
+			"sockFactory",
+			"createRoom",
+			"joinRoom",
+			"sockfactory",
+			"getinfo",
+			"654",
+			"6654",
+			"getInfo",
+			"getinfo",
+			"getinfo()",
+			"uname",
+			"uinfo",
+			"getInfo",
+			"login",
+			"handle",
+			"login",
+			"getinfo",
+			"324",
+			"constants",
+			"auth",
+			"getInfo",
+			"Listeners",
+			"priListeners",
+			"getinfo",
+			"listener",
+			"getInfo",
+			"listeners",
+			"getInfo",
+			"onstore",
+			"getInfo",
+			"sockFactory"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rc"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "drawProj.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"public\\js\\qBankMod.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
