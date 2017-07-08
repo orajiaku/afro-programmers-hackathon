@@ -1,10 +1,15 @@
 var globals = require("../../globals");
-var storeHandler = require(globals.vars.store);
+var io = require(globals.vars.app).io;
+var storeHandler = require(globals.vars.store).db;
 
 
 
 var getDrawingHistoryForNewClients = function (socket_id, room,) {
 	 /* body... */ 
+}
+
+var sendErrorPage = function (argument) {
+	// body... 
 }
 
 var getDrawing = function (socket_id, draw_parameters) {
@@ -24,8 +29,7 @@ var joinRoom = function (socket_id, room_name) {
 }
 
 var checkRoom = function (room_name) {
-	/* body... */
-	
+	 return room_name in storeHandler.storage;
 }
 
 var onDisconnect = function (socket_id) {
