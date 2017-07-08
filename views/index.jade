@@ -1,5 +1,32 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  nav.navbar.navbar-toggleable-md.navbar-light
+    button.navbar-toggler.navbar-toggler-right(type="button", data-toggle="collapse", data-target="#topBar", aria-controls="topBar", aria-expanded="false", aria-label="Toggle navigation")
+      span.navbar-toggler-icon
+    a.navbar-brand BIG LOGO
+    div.collapse.navbar-collapse#topBar
+      ul.navbar-nav
+        li.nav-item
+          a.nav-link(href='#') about
+        li.nav-item
+          a.nav-link(href='#') githubCode
+        li.nav-item
+          a.nav-link(href='#') something
+        
+  div.container-fluid
+    div.row
+      div.col-md-2
+        //- p left
+        br
+      div.col-md-8
+        div.col#roomCard
+          h4 Create a room
+          form
+            label Name it
+            input(type='text', placeholder="Valerian")
+            button.btn.btn-primary(type="submit") Go
+          br
+      div.col-md-2
+        //- p right
+        br
