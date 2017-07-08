@@ -7,5 +7,7 @@ a Key-value pair consists of  {room_name : {admin: name, users : [list of users]
 var storage = {}
 var number_of_rooms = 0;
 
-exports.db = {storage: storage,
-		noOfKeys: number_of_rooms }
+exports.db = {
+				storage: storage,
+				noOfKeys: number_of_rooms
+		 	}

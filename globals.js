@@ -3,6 +3,6 @@ exports.vars = {
 	port:7012,
 	afroproj: __dirname + "/afro-programmers-hackathon",
 	routes: __dirname + "/routes",
-	store: __dirname + "/afro-programmers-hackathon" + "/store",
+	store: __dirname + "/afro-programmers-hackathon" + "/store/store",
 	app:__dirname + "/app"
 }
