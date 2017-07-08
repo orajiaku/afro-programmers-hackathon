@@ -1,8 +1,30 @@
 body {
-  padding: 50px;
+  /*padding: 50px;*/
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+nav {
+  margin-bottom: 5em;
+}
+.navbar-nav{
+  margin-left: 75%;
+}
+.container-fluid>.row{
+  padding: 1em;
+}
+#roomCard {
+  border: 5px solid pink;
+  border-radius: 6px;
+  height:500px;
+  text-align: center;
+}
+#roomCard label{
+  margin-right: 2em;
+}
+#roomCard h4 {
+  font-size: 4rem;
+  padding: 1em;
 }
