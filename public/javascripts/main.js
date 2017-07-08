@@ -51,6 +51,10 @@
             y1: y1 / h,
             color: color
         });
+
+        socket.emit('comment', {
+            comment: ""
+        });
     }
 
     function onMouseDown(e){
